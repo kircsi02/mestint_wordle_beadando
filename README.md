@@ -7,4 +7,5 @@ szavakat felsoroló szövegállomány. (Soronként 1 szó, összesen kb. 5500 da
 
 ## Készítette:
 Tóth Kíra Zsófia
+
 Eszerházy Károly Katolikus Egyetem hallgatója
