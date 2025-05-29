@@ -1,0 +1,12 @@
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\bin\Debug\Wordle.exe.config
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\bin\Debug\Wordle.exe
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\bin\Debug\Wordle.pdb
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.Form1.resources
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.Form2.resources
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.Form3.resources
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.exe
+E:\kiruc\Documents\GitHub\mestint_wordle_beadando\Mestint_beadando_wordle_A8C12R\Wordle\obj\Debug\Wordle.pdb
